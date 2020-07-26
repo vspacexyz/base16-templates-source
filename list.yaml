@@ -44,7 +44,7 @@ qutebrowser: https://github.com/theova/base16-qutebrowser
 #radare2: https://github.com/jtalowell/base16-radare2
 rofi: https://gitlab.com/0xdec/base16-rofi
 scide: https://github.com/brunoro/base16-scide
-shell: https://github.com/chriskempson/base16-shell
+shell: git@github.com:vspacexyz/base16-shell.git
 st: https://github.com/dgmulf/base16-st
 stumpwm: https://github.com/tpine/base16-stumpwm
 styles: https://github.com/samme/base16-styles
